@@ -11,7 +11,7 @@ This project demonstrates a real-time vision-based line following system inspire
 - Line-loss detection and recovery
 
 ## Demo
-[Paste your video link here]
+https://youtu.be/nJGsnMGM68Y
 
 ## Tech Stack
 - Python
